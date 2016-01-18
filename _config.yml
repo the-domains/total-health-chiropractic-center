@@ -1,7 +1,7 @@
 name: Total Health Chiropractic Center
 favicon: null
-layout_spectrum: 0.8288911881390959
-typography_spectrum: 0.3687645890749991
+layout_spectrum: 0.85881
+typography_spectrum: 0.9987
 title: Total Health Chiropractic Center
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5671560151968151
+    - '#152970'
+    - '#f5e4c8'
+    - '#af95ae'
+    - '#8cb6ff'
+    - '#766b71'
+  brandStrength: 0.5
   lightness: 0.7065980168990791
-  saturation: 0.6542778592556715
+  saturation: 0.75
   rhythmicContrast: 0.6061705031897873
 purpose: []
