@@ -1,14 +1,15 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T08:57:08.121Z'
-dateModified: '2016-01-18T08:43:46.700Z'
-title: How Can WE Help
+datePublished: '2016-01-20T01:47:53.707Z'
+dateModified: '2016-01-20T01:47:52.138Z'
+title: How Can weHelp
 author: []
 authors: []
 publisher:
@@ -18,8 +19,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-01-18-how-can-we-help.md
 published: true
-url: how-can-we-help/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 How Can We Help You
